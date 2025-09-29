@@ -1,14 +1,13 @@
 # AutoQueue
-# AutoQueue
 
 AutoQueue is a Python script that automatically populates a Spotify playlist with tracks detected from a YouTube page. It scrapes the video titles and artists from the page source, searches for matching songs on Spotify, and queues them into a selected or newly created playlist.
 
 ## Features
 
-* 🔍 Scrapes video titles and artists from YouTube URLs
-* 🎵 Searches for tracks on Spotify using Spotipy
-* 🏆 Adds found tracks to an existing or new playlist
-* 🔐 Uses Spotify OAuth for secure access
+* Scrapes video titles and artists from YouTube URLs
+* Searches for tracks on Spotify using Spotipy
+* Adds found tracks to an existing or new playlist
+* Uses Spotify OAuth for secure access
 
 ## Requirements
 
